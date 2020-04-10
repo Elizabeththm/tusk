@@ -4,6 +4,8 @@ cooking
 swimming
 playing 
 rolling
+skipping
 
 
 final
+
